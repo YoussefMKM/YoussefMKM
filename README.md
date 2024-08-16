@@ -1,5 +1,9 @@
 Hi 👋 My name is Youssef
-========================I've been learning to code since highschool, i'm mostly passionate about creating simple apps and scripts* ✉️  You can contact me at [youssef.dardouri05@proton.me](mailto:youssef.dardouri05@proton.me)* 🧠  I'm learning React Native
+========================
+
+I've been learning to code since highschool, i'm mostly passionate about creating simple apps and scripts
+* ✉️  You can contact me at [youssef.dardouri05@proton.me](mailto:youssef.dardouri05@proton.me)
+* 🧠  I'm learning React Native
 
 <a href="https://www.github.com/YoussefMKM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YoussefMKM?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
